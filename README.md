@@ -3,6 +3,7 @@
 
 ---
 ### Project Description: 
+
 This is a website that shows weather dashboard allowing city lookups for forecasts.
 ---
 
